@@ -1,51 +1,83 @@
 <!doctype html>
 <html lang="zh-CN">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>bilibili热搜</title>
-  <style>
-    .trending{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial}
-    .header .title{font-weight:700;margin-bottom:8px}
-    .trendings-single{display:flex;flex-direction:column;gap:6px}
-    .trending-item{display:flex;align-items:center;gap:8px}
-    .trendings-rank{width:20px;text-align:center;font-weight:700}
-    .search-rank-top{color:#e91e63}
-    .trending-text{flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-    .trending-mark{height:20px}
-  </style>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>bilibili 热搜 · 实时</title>
+<style>
+  :root{--bg:#0b0f14;--card:#111827;--muted:#9ca3af;--text:#e5e7eb;--accent:#60a5fa;--top:#f59e0b;--ok:#10b981;}
+  *{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--text);font:14px/1.5 system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial}
+  .wrap{max-width:680px;margin:28px auto;padding:0 16px}
+  .title{display:flex;align-items:center;gap:10px;margin-bottom:14px}
+  .title h1{font-size:18px;margin:0}
+  .title .ts{color:var(--muted);font-size:12px}
+  .card{background:var(--card);border:1px solid #1f2937;border-radius:14px;box-shadow:0 6px 18px rgba(0,0,0,.25);padding:8px}
+  .list{display:flex;flex-direction:column}
+  .item{display:flex;align-items:center;gap:10px;padding:10px 12px;border-radius:10px;cursor:pointer;transition:transform .12s ease,background .2s ease}
+  .item:hover{background:#0f172a;transform:translateY(-1px)}
+  .rank{width:26px;text-align:center;font-weight:700;color:var(--muted)}
+  .rank.top{color:var(--top)}
+  .text{flex:1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .badge{font-size:11px;border:1px solid #334155;color:#93c5fd;padding:2px 6px;border-radius:999px}
+  .footer{display:flex;justify-content:space-between;align-items:center;margin-top:10px;color:var(--muted);font-size:12px}
+  .btn{appearance:none;border:1px solid #334155;background:#0f172a;color:#cbd5e1;border-radius:10px;padding:6px 10px;cursor:pointer}
+  .btn:hover{border-color:#475569}
+</style>
 </head>
 <body>
-  <div id="bili-hot-root">加载中…</div>
-  <script>
-    (async function () {
-      const JSON_PATH = "./bilibili.json"; // 同目录
-      async function fetchJSON(p){const r=await fetch(p,{cache:"no-store"});if(!r.ok)throw new Error(r.status);return r.json()}
-      function el(tag, cls, text){const e=document.createElement(tag);if(cls)e.className=cls;if(text!=null)e.textContent=text;return e}
-      try{
-        const data = await fetchJSON(JSON_PATH);
-        const wrap = el("div","trending"); wrap.style.maxWidth="247px";
-        const header = el("div","header"); header.appendChild(el("div","title","bilibili热搜")); wrap.appendChild(header);
-        const list = el("div","trendings-single");
-        (data.items||[]).forEach(it=>{
-          const item = el("div","trending-item"); item.tabIndex=0;
-          const rank = el("div","trendings-rank" + (it.rank<=3?" search-rank-top":""), String(it.rank));
-          const text = el("div","trending-text", it.text);
-          item.append(rank,text);
-          if(it.mark){
-            const img = new Image(); img.className="trending-mark";
-            img.src = it.mark.startsWith("//") ? "https:"+it.mark : it.mark;
-            img.referrerPolicy="no-referrer"; item.appendChild(img);
-          }
-          list.appendChild(item);
-        });
-        wrap.appendChild(list);
-        document.getElementById("bili-hot-root").replaceChildren(wrap);
-      }catch(e){
-        document.getElementById("bili-hot-root").textContent="bilibili 热搜加载失败";
-        console.error(e);
-      }
-    })();
-  </script>
+<div class="wrap">
+  <div class="title">
+    <h1>📈 bilibili 热搜</h1>
+    <span class="ts" id="ts">加载中…</span>
+  </div>
+  <div class="card">
+    <div id="list" class="list"></div>
+    <div class="footer">
+      <span>数据源：bilibili • 自动每 60 秒刷新</span>
+      <button class="btn" id="refresh">手动刷新</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const JSON_URL = "./bilibili.json?t=" + Date.now(); // 首屏防缓存
+const SEARCH_URL = "https://search.bilibili.com/all?keyword=";
+
+async function fetchJSON(p){
+  const r = await fetch(p, {cache:"no-store"});
+  if(!r.ok) throw new Error("HTTP "+r.status);
+  return r.json();
+}
+function el(tag, cls, text){const e=document.createElement(tag); if(cls)e.className=cls; if(text!=null)e.textContent=text; return e;}
+function render(data){
+  const list = document.getElementById("list");
+  list.innerHTML = "";
+  (data.items||[]).forEach(it=>{
+    const item = el("div","item");
+    const rk = el("div","rank"+(it.rank<=3?" top":""), it.rank);
+    const tx = el("div","text", it.text);
+    const bd = el("div","badge", it.rank<=3? "TOP🔥":"热搜");
+    item.append(rk,tx,bd);
+    item.onclick = ()=> window.open(SEARCH_URL + encodeURIComponent(it.text), "_blank");
+    list.appendChild(item);
+  });
+  const ts = document.getElementById("ts");
+  if(ts && data.generated_at) ts.textContent = data.generated_at.replace("GMT","北京时区换算+8自行理解😆");
+}
+
+async function loadOnce(){
+  try{
+    const data = await fetchJSON("./bilibili.json?t="+Date.now());
+    render(data);
+  }catch(e){
+    console.error(e);
+    document.getElementById("list").innerHTML = "<div class='item'><div class='text'>加载失败</div></div>";
+  }
+}
+
+document.getElementById("refresh").onclick = loadOnce;
+loadOnce();                     // 首次加载
+setInterval(loadOnce, 60_000);  // 每 60 秒自动刷新
+</script>
 </body>
 </html>
