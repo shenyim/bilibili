@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-08-25 14:00:03 GMT",
+  "generated_at": "2025-08-25 14:05:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -14,22 +14,22 @@
     },
     {
       "rank": 3,
-      "text": "合金装备3重制版首发",
-      "mark": "http://i0.hdslb.com/bfs/app/a3618efbaba235afdb918e01fa9479eec78913e1.gif"
-    },
-    {
-      "rank": 4,
-      "text": "2025年羽毛球世锦赛",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
-      "rank": 5,
       "text": "韩国前总理为何被申请拘留",
       "mark": null
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "text": "合金装备3重制版首发",
+      "mark": "http://i0.hdslb.com/bfs/app/a3618efbaba235afdb918e01fa9479eec78913e1.gif"
+    },
+    {
+      "rank": 5,
       "text": "本周暑期档电影看哪部",
+      "mark": null
+    },
+    {
+      "rank": 6,
+      "text": "Github将并入微软AI意味着什么",
       "mark": null
     },
     {
@@ -39,7 +39,7 @@
     },
     {
       "rank": 8,
-      "text": "王者单挑玩法天命争锋爆料",
+      "text": "吴京渲染大赛是什么梗",
       "mark": null
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "rank": 10,
-      "text": "吴京渲染大赛是什么梗",
-      "mark": null
+      "text": "2025年羽毛球世锦赛",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     }
   ]
 }
