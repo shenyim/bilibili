@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-08-25 00:20:03 GMT",
+  "generated_at": "2025-08-25 00:25:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -9,22 +9,22 @@
     },
     {
       "rank": 2,
-      "text": "三亚阵风打破历史纪录",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
-    },
-    {
-      "rank": 3,
       "text": "凡人动画为何如此成功",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
+      "rank": 3,
+      "text": "三亚阵风打破历史纪录",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
+    },
+    {
       "rank": 4,
-      "text": "Vitality Falcons",
+      "text": "成都Wolves一穿四夺冠",
       "mark": null
     },
     {
       "rank": 5,
-      "text": "成都Wolves一穿四夺冠",
+      "text": "九三阅兵第三次演练现场画面",
       "mark": null
     },
     {
@@ -34,22 +34,22 @@
     },
     {
       "rank": 7,
-      "text": "九三阅兵第三次演练现场画面",
-      "mark": null
-    },
-    {
-      "rank": 8,
-      "text": "BLG whzy获FMVP",
-      "mark": null
-    },
-    {
-      "rank": 9,
       "text": "黄霄雲巡演宁波站8K直拍",
       "mark": null
     },
     {
-      "rank": 10,
+      "rank": 8,
       "text": "KT零封T1",
+      "mark": null
+    },
+    {
+      "rank": 9,
+      "text": "非典型男主凭什么火",
+      "mark": null
+    },
+    {
+      "rank": 10,
+      "text": "BLG whzy获FMVP",
       "mark": null
     }
   ]
