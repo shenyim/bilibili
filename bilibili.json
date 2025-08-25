@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-08-25 00:35:03 GMT",
+  "generated_at": "2025-08-25 00:40:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -9,17 +9,17 @@
     },
     {
       "rank": 2,
+      "text": "姆巴佩双响皇马胜",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+    },
+    {
+      "rank": 3,
       "text": "DRG BLG",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
-      "rank": 3,
-      "text": "凡人动画为何如此成功",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
-    },
-    {
       "rank": 4,
-      "text": "三亚阵风打破历史纪录",
+      "text": "凡人动画为何如此成功",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
@@ -34,7 +34,7 @@
     },
     {
       "rank": 7,
-      "text": "KT零封T1",
+      "text": "三亚阵风打破历史纪录",
       "mark": null
     },
     {
@@ -44,12 +44,12 @@
     },
     {
       "rank": 9,
-      "text": "Mongolz Aurora",
+      "text": "Vitality Falcons",
       "mark": null
     },
     {
       "rank": 10,
-      "text": "Vitality Falcons",
+      "text": "黄霄雲巡演宁波站8K直拍",
       "mark": null
     }
   ]
