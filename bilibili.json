@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-08-25 10:20:03 GMT",
+  "generated_at": "2025-08-25 10:25:02 GMT",
   "items": [
     {
       "rank": 1,
@@ -9,17 +9,17 @@
     },
     {
       "rank": 2,
+      "text": "Faker 最佳选手奖",
+      "mark": null
+    },
+    {
+      "rank": 3,
       "text": "如何看A股成交量破3万亿",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
-      "rank": 3,
-      "text": "本周暑期档电影看哪部",
-      "mark": null
-    },
-    {
       "rank": 4,
-      "text": "Github将并入微软AI意味着什么",
+      "text": "本周暑期档电影看哪部",
       "mark": null
     },
     {
@@ -29,8 +29,8 @@
     },
     {
       "rank": 6,
-      "text": "Faker 最佳选手奖",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+      "text": "Github将并入微软AI意味着什么",
+      "mark": null
     },
     {
       "rank": 7,
@@ -39,18 +39,18 @@
     },
     {
       "rank": 8,
-      "text": "黑神话从天命人到收命人",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221117/eaf2dd702d7cc14d8d9511190245d057/EeuqbMwao9.png"
+      "text": "全面盘点哈利波特剧情细节",
+      "mark": null
     },
     {
       "rank": 9,
-      "text": "王者单挑玩法天命争锋爆料",
+      "text": "这本日记值得所有人铭记",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
       "rank": 10,
-      "text": "全面盘点哈利波特剧情细节",
-      "mark": null
+      "text": "王者单挑玩法天命争锋爆料",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     }
   ]
 }
