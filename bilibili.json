@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-08-25 10:10:03 GMT",
+  "generated_at": "2025-08-25 10:15:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -9,18 +9,18 @@
     },
     {
       "rank": 2,
-      "text": "Faker 最佳选手奖",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
-      "rank": 3,
       "text": "本周暑期档电影看哪部",
       "mark": null
     },
     {
-      "rank": 4,
+      "rank": 3,
       "text": "Github将并入微软AI意味着什么",
       "mark": null
+    },
+    {
+      "rank": 4,
+      "text": "这本日记值得所有人铭记",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
       "rank": 5,
@@ -29,7 +29,7 @@
     },
     {
       "rank": 6,
-      "text": "王者单挑玩法天命争锋爆料",
+      "text": "Faker 最佳选手奖",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
@@ -39,18 +39,18 @@
     },
     {
       "rank": 8,
-      "text": "全面盘点哈利波特剧情细节",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+      "text": "身法危机",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221117/eaf2dd702d7cc14d8d9511190245d057/EeuqbMwao9.png"
     },
     {
       "rank": 9,
-      "text": "鲁豫陈奕迅独家对谈",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20240304/fbb6ffcfd09815bd66290b6b7bde1196/OBQYPHMTcv.png"
+      "text": "全面盘点哈利波特剧情细节",
+      "mark": null
     },
     {
       "rank": 10,
-      "text": "曼联1比1富勒姆",
-      "mark": null
+      "text": "王者单挑玩法天命争锋爆料",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     }
   ]
 }
