@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-08-25 01:45:03 GMT",
+  "generated_at": "2025-08-25 01:50:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -39,17 +39,17 @@
     },
     {
       "rank": 8,
-      "text": "凡人动画为何如此成功",
-      "mark": null
-    },
-    {
-      "rank": 9,
       "text": "Mongolz Aurora",
       "mark": null
     },
     {
-      "rank": 10,
+      "rank": 9,
       "text": "三亚阵风打破历史纪录",
+      "mark": null
+    },
+    {
+      "rank": 10,
+      "text": "成都Wolves一穿四夺冠",
       "mark": null
     }
   ]
