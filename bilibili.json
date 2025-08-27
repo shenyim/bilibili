@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-08-27 07:40:03 GMT",
+  "generated_at": "2025-08-27 07:45:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -9,18 +9,18 @@
     },
     {
       "rank": 2,
+      "text": "京剧猫官方预告片第二弹",
+      "mark": null
+    },
+    {
+      "rank": 3,
       "text": "iPhone17全系价格曝光",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "text": "iPhone 17系列新品前瞻",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
-      "rank": 4,
-      "text": "星舰第10次试飞成功溅落",
-      "mark": null
     },
     {
       "rank": 5,
@@ -39,17 +39,17 @@
     },
     {
       "rank": 8,
-      "text": "京剧猫官方预告片第二弹",
+      "text": "星舰第10次试飞成功溅落",
       "mark": null
     },
     {
       "rank": 9,
-      "text": "宗馥莉首谈家族纠纷",
+      "text": "苹果版本更新主要变化",
       "mark": null
     },
     {
       "rank": 10,
-      "text": "苹果版本更新主要变化",
+      "text": "宗馥莉首谈家族纠纷",
       "mark": null
     }
   ]
