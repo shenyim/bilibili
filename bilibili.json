@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-09-01 08:15:03 GMT",
+  "generated_at": "2025-09-01 08:20:02 GMT",
   "items": [
     {
       "rank": 1,
@@ -29,27 +29,27 @@
     },
     {
       "rank": 6,
-      "text": "无畏契约巴黎冠军赛分组出炉",
-      "mark": null
-    },
-    {
-      "rank": 7,
       "text": "多款国产单机将在B站首曝",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20240304/fbb6ffcfd09815bd66290b6b7bde1196/OBQYPHMTcv.png"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "text": "解读上合峰会背后深意",
       "mark": null
     },
     {
-      "rank": 9,
+      "rank": 8,
       "text": "和UP主一起迎阅兵",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20240304/fbb6ffcfd09815bd66290b6b7bde1196/OBQYPHMTcv.png"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "text": "苹果发布会10款新品前瞻",
+      "mark": null
+    },
+    {
+      "rank": 10,
+      "text": "中二病词义变迁史",
       "mark": null
     }
   ]
