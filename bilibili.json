@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-09-01 03:35:03 GMT",
+  "generated_at": "2025-09-01 03:40:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -14,17 +14,17 @@
     },
     {
       "rank": 3,
-      "text": "央视专访游本昌",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
-      "rank": 4,
       "text": "苹果发布会10款新品前瞻",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "text": "开学",
+      "mark": null
+    },
+    {
+      "rank": 5,
+      "text": "F1荷兰站小红牛登上领奖台",
       "mark": null
     },
     {
@@ -34,23 +34,23 @@
     },
     {
       "rank": 7,
-      "text": "广州TTG 北京WB",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
+      "text": "中二病词义变迁史",
+      "mark": null
     },
     {
       "rank": 8,
-      "text": "石宇奇首夺世锦赛冠军",
-      "mark": null
+      "text": "央视专访游本昌",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
       "rank": 9,
-      "text": "WE EDG",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
+      "text": "TheShy中国慈善家杂志专访",
+      "mark": null
     },
     {
       "rank": 10,
-      "text": "深度解析樊振东德甲首秀爆冷",
-      "mark": null
+      "text": "WE EDG",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     }
   ]
 }
