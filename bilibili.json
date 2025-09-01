@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-09-01 01:15:03 GMT",
+  "generated_at": "2025-09-01 01:20:55 GMT",
   "items": [
     {
       "rank": 1,
@@ -34,23 +34,23 @@
     },
     {
       "rank": 7,
-      "text": "律师解读特斯拉在美被重罚",
-      "mark": null
-    },
-    {
-      "rank": 8,
       "text": "中二病词义变迁史",
       "mark": null
     },
     {
-      "rank": 9,
-      "text": "利物浦1比0阿森纳",
+      "rank": 8,
+      "text": "律师解读特斯拉在美被重罚",
       "mark": null
     },
     {
-      "rank": 10,
+      "rank": 9,
       "text": "广州TTG 北京WB",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
+    },
+    {
+      "rank": 10,
+      "text": "开学第一天老师如何查作业",
+      "mark": null
     }
   ]
 }
