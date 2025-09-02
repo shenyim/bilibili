@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-09-02 03:55:03 GMT",
+  "generated_at": "2025-09-02 04:00:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -39,18 +39,18 @@
     },
     {
       "rank": 8,
+      "text": "矿泉水大测评",
+      "mark": null
+    },
+    {
+      "rank": 9,
       "text": "和UP主一起迎阅兵",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20240304/fbb6ffcfd09815bd66290b6b7bde1196/OBQYPHMTcv.png"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "text": "那年那兔那些事讲了什么",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20240304/fbb6ffcfd09815bd66290b6b7bde1196/OBQYPHMTcv.png"
-    },
-    {
-      "rank": 10,
-      "text": "9.3大阅兵 定将震撼世界",
-      "mark": null
     }
   ]
 }
