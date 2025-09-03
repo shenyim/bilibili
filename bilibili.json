@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-09-03 03:22:20 GMT",
+  "generated_at": "2025-09-03 03:25:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -24,17 +24,17 @@
     },
     {
       "rank": 5,
-      "text": "核导弹方队亮相",
-      "mark": null
-    },
-    {
-      "rank": 6,
       "text": "阅兵观礼台看世界格局的重塑",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20240304/fbb6ffcfd09815bd66290b6b7bde1196/OBQYPHMTcv.png"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "text": "女民兵方队让人眼前一亮",
+      "mark": null
+    },
+    {
+      "rank": 7,
+      "text": "核导弹方队亮相",
       "mark": null
     },
     {
