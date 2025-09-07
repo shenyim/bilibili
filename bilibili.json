@@ -1,10 +1,10 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-09-07 15:35:06 GMT",
+  "generated_at": "2025-09-07 16:00:09 GMT",
   "items": [
     {
       "rank": 1,
-      "text": "成都AG超玩会 北京WB",
+      "text": "IG EDG",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
@@ -14,27 +14,27 @@
     },
     {
       "rank": 3,
-      "text": "瓶子君谈假面骑士完结篇",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
-    },
-    {
-      "rank": 4,
       "text": "iPhone17史诗级更新爆料",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
-      "rank": 5,
+      "rank": 4,
       "text": "石破茂辞职谁会接班",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+      "mark": null
+    },
+    {
+      "rank": 5,
+      "text": "萨巴伦卡卫冕美网之路",
+      "mark": null
     },
     {
       "rank": 6,
-      "text": "IG EDG",
+      "text": "成都AG超玩会 北京WB",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
       "rank": 7,
-      "text": "萨巴伦卡卫冕美网之路",
+      "text": "瓶子君谈假面骑士完结篇",
       "mark": null
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "rank": 10,
-      "text": "TI14国际邀请赛",
-      "mark": "http://i0.hdslb.com/bfs/app/a3618efbaba235afdb918e01fa9479eec78913e1.gif"
+      "text": "北川莫甘娜完美发挥",
+      "mark": null
     }
   ]
 }
