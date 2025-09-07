@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-09-07 05:55:03 GMT",
+  "generated_at": "2025-09-07 06:00:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -9,18 +9,18 @@
     },
     {
       "rank": 2,
+      "text": "2025KPL夏季赛决赛",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+    },
+    {
+      "rank": 3,
       "text": "英国顶级防务专家看中国阅兵",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
-      "rank": 3,
-      "text": "2025KPL夏季赛决赛",
-      "mark": "http://i0.hdslb.com/bfs/app/a3618efbaba235afdb918e01fa9479eec78913e1.gif"
-    },
-    {
       "rank": 4,
-      "text": "明日方舟若叶睦实战测评",
-      "mark": null
+      "text": "华莱士工厂内部揭秘",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
       "rank": 5,
@@ -49,8 +49,8 @@
     },
     {
       "rank": 10,
-      "text": "我们的胜利日",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+      "text": "战车2:1法老挺进8强",
+      "mark": null
     }
   ]
 }
