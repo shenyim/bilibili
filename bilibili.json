@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-09-08 14:06:54 GMT",
+  "generated_at": "2025-09-08 14:16:23 GMT",
   "items": [
     {
       "rank": 1,
@@ -9,18 +9,18 @@
     },
     {
       "rank": 2,
-      "text": "食贫道长江吃饭故事上新",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
-      "rank": 3,
       "text": "全国高温中心将大幅降温",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
-      "rank": 4,
+      "rank": 3,
       "text": "影视级语音克隆来了",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
+    },
+    {
+      "rank": 4,
+      "text": "TeslaAI",
+      "mark": null
     },
     {
       "rank": 5,
@@ -49,8 +49,8 @@
     },
     {
       "rank": 10,
-      "text": "TeslaAI",
-      "mark": null
+      "text": "东契奇42分击溃意大利复盘",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     }
   ]
 }
