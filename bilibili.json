@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-09-10 04:35:03 GMT",
+  "generated_at": "2025-09-10 04:40:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -9,27 +9,27 @@
     },
     {
       "rank": 2,
+      "text": "李想",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20240304/fbb6ffcfd09815bd66290b6b7bde1196/OBQYPHMTcv.png"
+    },
+    {
+      "rank": 3,
       "text": "深度解析苹果发布会",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "text": "BLG IG",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "text": "以军承认袭击卡塔尔首都多哈",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
-      "rank": 5,
-      "text": "开1万元奔驰MPV去自驾",
-      "mark": null
-    },
-    {
       "rank": 6,
-      "text": "24VCT冠军EDG回忆夺冠之路",
+      "text": "20+UP主一字锐评苹果发布会",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
@@ -44,12 +44,12 @@
     },
     {
       "rank": 9,
-      "text": "罗永浩仁科五小时长谈",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+      "text": "UP主起诉似锦片头曲侵权",
+      "mark": null
     },
     {
       "rank": 10,
-      "text": "堂主SU7 Ultra征战纽北",
+      "text": "24VCT冠军EDG回忆夺冠之路",
       "mark": null
     }
   ]
