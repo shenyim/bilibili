@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-09-24 08:35:03 GMT",
+  "generated_at": "2025-09-24 08:40:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -9,13 +9,13 @@
     },
     {
       "rank": 2,
-      "text": "桦加沙来袭",
+      "text": "星穹铁道3.6",
       "mark": "http://i0.hdslb.com/bfs/app/a3618efbaba235afdb918e01fa9479eec78913e1.gif"
     },
     {
       "rank": 3,
-      "text": "A股逼空上涨超4000股",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+      "text": "桦加沙来袭",
+      "mark": "http://i0.hdslb.com/bfs/app/a3618efbaba235afdb918e01fa9479eec78913e1.gif"
     },
     {
       "rank": 4,
@@ -24,8 +24,8 @@
     },
     {
       "rank": 5,
-      "text": "周鸿祎罗永浩把AI聊透了",
-      "mark": null
+      "text": "A股逼空上涨超4000股",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
       "rank": 6,
@@ -34,22 +34,22 @@
     },
     {
       "rank": 7,
-      "text": "直击超强台风桦加沙袭港",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
-      "rank": 8,
-      "text": "多国承认巴勒斯坦国对美国意味什么",
+      "text": "周鸿祎罗永浩把AI聊透了",
       "mark": null
     },
     {
-      "rank": 9,
+      "rank": 8,
       "text": "台风桦加沙路径西偏",
       "mark": null
     },
     {
+      "rank": 9,
+      "text": "多国承认巴勒斯坦国对美国意味什么",
+      "mark": null
+    },
+    {
       "rank": 10,
-      "text": "新台风博罗依即将生成",
+      "text": "解析雅鲁藏布江下游水电工程",
       "mark": null
     }
   ]
