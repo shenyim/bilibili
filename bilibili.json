@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-09-24 02:50:03 GMT",
+  "generated_at": "2025-09-24 02:55:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -29,7 +29,7 @@
     },
     {
       "rank": 6,
-      "text": "UP自制三角洲行动动画MV",
+      "text": "解读丝瓜汤里的情绪勒索",
       "mark": null
     },
     {
@@ -39,17 +39,17 @@
     },
     {
       "rank": 8,
-      "text": "解读丝瓜汤里的情绪勒索",
-      "mark": null
-    },
-    {
-      "rank": 9,
       "text": "3晚7万的酒店长啥样",
       "mark": null
     },
     {
-      "rank": 10,
+      "rank": 9,
       "text": "寂静岭F全流程实况",
+      "mark": null
+    },
+    {
+      "rank": 10,
+      "text": "气象专家详解台风桦加沙",
       "mark": null
     }
   ]
