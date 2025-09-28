@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-09-28 14:00:02 GMT",
+  "generated_at": "2025-09-28 14:05:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -29,8 +29,8 @@
     },
     {
       "rank": 6,
-      "text": "重庆狼队 苏州KSG",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
+      "text": "2025原神生日会",
+      "mark": null
     },
     {
       "rank": 7,
@@ -39,8 +39,8 @@
     },
     {
       "rank": 8,
-      "text": "2025原神生日会",
-      "mark": null
+      "text": "PRX FNC",
+      "mark": "http://i0.hdslb.com/bfs/app/a3618efbaba235afdb918e01fa9479eec78913e1.gif"
     },
     {
       "rank": 9,
@@ -49,8 +49,8 @@
     },
     {
       "rank": 10,
-      "text": "PRX FNC",
-      "mark": "http://i0.hdslb.com/bfs/app/a3618efbaba235afdb918e01fa9479eec78913e1.gif"
+      "text": "柯洁卫冕棋圣",
+      "mark": null
     }
   ]
 }
