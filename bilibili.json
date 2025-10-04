@@ -1,16 +1,16 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-10-04 14:55:03 GMT",
+  "generated_at": "2025-10-04 15:00:04 GMT",
   "items": [
     {
       "rank": 1,
-      "text": "成都AG超玩会 北京JDG",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
+      "text": "FNC DRX",
+      "mark": "http://i0.hdslb.com/bfs/app/a3618efbaba235afdb918e01fa9479eec78913e1.gif"
     },
     {
       "rank": 2,
-      "text": "FNC DRX",
-      "mark": "http://i0.hdslb.com/bfs/app/a3618efbaba235afdb918e01fa9479eec78913e1.gif"
+      "text": "成都AG超玩会 北京JDG",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
       "rank": 3,
@@ -24,17 +24,17 @@
     },
     {
       "rank": 5,
-      "text": "火柴人 行走循环",
-      "mark": null
-    },
-    {
-      "rank": 6,
       "text": "百万UP东南亚72h生存挑战",
       "mark": null
     },
     {
-      "rank": 7,
+      "rank": 6,
       "text": "假如中山靖王玩走秀",
+      "mark": null
+    },
+    {
+      "rank": 7,
+      "text": "在冰岛看火山爆发是什么体验",
       "mark": null
     },
     {
@@ -44,13 +44,13 @@
     },
     {
       "rank": 9,
-      "text": "在冰岛看火山爆发是什么体验",
-      "mark": null
+      "text": "韩立也会近乡情怯",
+      "mark": "https://i0.hdslb.com/bfs/legacy/647bba88c37449d0f5a2c69f1dff1373caf20797.png"
     },
     {
       "rank": 10,
-      "text": "韩立也会近乡情怯",
-      "mark": "https://i0.hdslb.com/bfs/legacy/647bba88c37449d0f5a2c69f1dff1373caf20797.png"
+      "text": "火柴人 行走循环",
+      "mark": null
     }
   ]
 }
