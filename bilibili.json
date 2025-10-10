@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-10-10 05:20:03 GMT",
+  "generated_at": "2025-10-10 05:25:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -19,28 +19,28 @@
     },
     {
       "rank": 4,
-      "text": "北方暴雨冷到破纪录",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
-    },
-    {
-      "rank": 5,
       "text": "加沙停火协议文本公布",
       "mark": null
     },
     {
-      "rank": 6,
-      "text": "UP主骑车全国送外卖之芜湖站",
-      "mark": null
+      "rank": 5,
+      "text": "北方暴雨冷到破纪录",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "text": "一个视频看完不同年代打戏",
       "mark": null
     },
     {
-      "rank": 8,
-      "text": "核聚变十年内能造福国人吗",
+      "rank": 7,
+      "text": "CS2全明星大乱斗",
       "mark": null
+    },
+    {
+      "rank": 8,
+      "text": "广州TTG 济南RW侠",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
       "rank": 9,
@@ -49,8 +49,8 @@
     },
     {
       "rank": 10,
-      "text": "广州TTG 济南RW侠",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
+      "text": "核聚变十年内能造福国人吗",
+      "mark": null
     }
   ]
 }
