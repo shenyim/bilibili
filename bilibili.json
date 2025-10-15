@@ -1,21 +1,21 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-10-15 10:10:04 GMT",
+  "generated_at": "2025-10-15 10:54:03 GMT",
   "items": [
     {
       "rank": 1,
+      "text": "HLE AL",
+      "mark": "http://i0.hdslb.com/bfs/app/a3618efbaba235afdb918e01fa9479eec78913e1.gif"
+    },
+    {
+      "rank": 2,
       "text": "深度复盘IG如何止步入围赛",
       "mark": null
     },
     {
-      "rank": 2,
-      "text": "工信部部长会见苹果公司CEO库克",
-      "mark": null
-    },
-    {
       "rank": 3,
-      "text": "国乒男团绝地逆转日本队",
-      "mark": null
+      "text": "宁波网球公开赛DAY3",
+      "mark": "http://i0.hdslb.com/bfs/app/a3618efbaba235afdb918e01fa9479eec78913e1.gif"
     },
     {
       "rank": 4,
@@ -24,33 +24,33 @@
     },
     {
       "rank": 5,
-      "text": "脊柱裂为何在人类身上发生",
-      "mark": null
-    },
-    {
-      "rank": 6,
-      "text": "王楚淇谈TheShy表现",
-      "mark": null
-    },
-    {
-      "rank": 7,
-      "text": "FLY T1",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
-    },
-    {
-      "rank": 8,
-      "text": "网络热门AI诈骗鉴定",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
-      "rank": 9,
       "text": "BLG",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
-      "rank": 10,
+      "rank": 6,
+      "text": "UP主回应修复戈壁滩大字",
+      "mark": null
+    },
+    {
+      "rank": 7,
+      "text": "脊柱裂为何在人类身上发生",
+      "mark": null
+    },
+    {
+      "rank": 8,
+      "text": "杨瀚森面对勇士9分6板",
+      "mark": null
+    },
+    {
+      "rank": 9,
       "text": "烟花秀影响草地面积30.06公顷",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+    },
+    {
+      "rank": 10,
+      "text": "王楚淇谈TheShy表现",
+      "mark": null
     }
   ]
 }
