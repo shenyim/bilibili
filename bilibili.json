@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-10-15 03:00:03 GMT",
+  "generated_at": "2025-10-15 03:05:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -29,8 +29,8 @@
     },
     {
       "rank": 6,
-      "text": "T1 3-1 IG赛后数据",
-      "mark": null
+      "text": "IG T1",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
       "rank": 7,
@@ -39,8 +39,8 @@
     },
     {
       "rank": 8,
-      "text": "IG T1",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
+      "text": "锐评IG为何不敌T1",
+      "mark": null
     },
     {
       "rank": 9,
@@ -49,7 +49,7 @@
     },
     {
       "rank": 10,
-      "text": "eSIM来了",
+      "text": "T1 3-1 IG赛后数据",
       "mark": null
     }
   ]
