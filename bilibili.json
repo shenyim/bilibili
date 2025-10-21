@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-10-21 15:10:03 GMT",
+  "generated_at": "2025-10-21 15:15:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -39,18 +39,18 @@
     },
     {
       "rank": 8,
+      "text": "特雷杨入驻B站",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20240304/fbb6ffcfd09815bd66290b6b7bde1196/OBQYPHMTcv.png"
+    },
+    {
+      "rank": 9,
       "text": "iPhone Air评测",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
-      "rank": 9,
-      "text": "杜克一哥14天中国行结束",
-      "mark": null
-    },
-    {
       "rank": 10,
-      "text": "一起来看猎户座流星雨",
-      "mark": "http://i0.hdslb.com/bfs/app/a3618efbaba235afdb918e01fa9479eec78913e1.gif"
+      "text": "逃离鸭科夫销量突破50万份",
+      "mark": null
     }
   ]
 }
