@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-10-21 14:15:03 GMT",
+  "generated_at": "2025-10-21 14:20:02 GMT",
   "items": [
     {
       "rank": 1,
@@ -9,23 +9,23 @@
     },
     {
       "rank": 2,
-      "text": "Faker和Keria给历届S赛冠军排名",
-      "mark": null
-    },
-    {
-      "rank": 3,
-      "text": "逃离鸭科夫联机mod即将发布",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
-      "rank": 4,
       "text": "杜克一哥14天中国行结束",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
-      "rank": 5,
+      "rank": 3,
       "text": "UP回应作业被签陈丹青名卖15万",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
+    },
+    {
+      "rank": 4,
+      "text": "DeepSeek暂列AI炒币大赛榜首",
+      "mark": null
+    },
+    {
+      "rank": 5,
+      "text": "S15会是Peanut的最后一舞",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
       "rank": 6,
@@ -34,13 +34,13 @@
     },
     {
       "rank": 7,
-      "text": "DeepSeek暂列AI炒币大赛榜首",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+      "text": "Faker和Keria给历届S赛冠军排名",
+      "mark": null
     },
     {
       "rank": 8,
-      "text": "特雷杨入驻B站",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20240304/fbb6ffcfd09815bd66290b6b7bde1196/OBQYPHMTcv.png"
+      "text": "逃离鸭科夫联机mod即将发布",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
       "rank": 9,
@@ -49,8 +49,8 @@
     },
     {
       "rank": 10,
-      "text": "破坏新疆航标者被立案调查",
-      "mark": null
+      "text": "特雷杨入驻B站",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20240304/fbb6ffcfd09815bd66290b6b7bde1196/OBQYPHMTcv.png"
     }
   ]
 }
