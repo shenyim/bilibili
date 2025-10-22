@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-10-22 07:10:03 GMT",
+  "generated_at": "2025-10-22 07:15:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -19,27 +19,27 @@
     },
     {
       "rank": 4,
-      "text": "勇士战胜湖人",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
-    },
-    {
-      "rank": 5,
-      "text": "复原卢浮宫抢劫案经过",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
-    },
-    {
-      "rank": 6,
-      "text": "美俄布达佩斯峰会或被搁置",
-      "mark": null
-    },
-    {
-      "rank": 7,
       "text": "CFO vs HLE数据前瞻",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
+      "rank": 5,
+      "text": "美俄布达佩斯峰会或被搁置",
+      "mark": null
+    },
+    {
+      "rank": 6,
+      "text": "复原卢浮宫抢劫案经过",
+      "mark": null
+    },
+    {
+      "rank": 7,
+      "text": "勇士战胜湖人",
+      "mark": null
+    },
+    {
       "rank": 8,
-      "text": "死亡搁浅2中文配音幕后花絮",
+      "text": "首次公开百团大战战报记录",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
@@ -49,7 +49,7 @@
     },
     {
       "rank": 10,
-      "text": "当你大半夜才回家",
+      "text": "死亡搁浅2中文配音幕后花絮",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     }
   ]
