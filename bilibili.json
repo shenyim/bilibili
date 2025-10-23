@@ -1,36 +1,36 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-10-23 09:21:53 GMT",
+  "generated_at": "2025-10-23 09:45:55 GMT",
   "items": [
     {
       "rank": 1,
+      "text": "二十届四中全会公报",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+    },
+    {
+      "rank": 2,
       "text": "MKOI TSW",
       "mark": "http://i0.hdslb.com/bfs/app/a3618efbaba235afdb918e01fa9479eec78913e1.gif"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "text": "Tim极限生存带飞于谦",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20240304/fbb6ffcfd09815bd66290b6b7bde1196/OBQYPHMTcv.png"
     },
     {
-      "rank": 3,
-      "text": "海贼王1163话全图情报",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
       "rank": 4,
-      "text": "CS2炼金炼出刀了",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
+      "text": "UP主手搓AI眼镜",
+      "mark": null
     },
     {
       "rank": 5,
-      "text": "美欧宣布对俄罗斯实施新制裁",
+      "text": "CS2炼金炼出刀了",
       "mark": null
     },
     {
       "rank": 6,
-      "text": "UP主手搓AI眼镜",
-      "mark": null
+      "text": "洛克王国世界同行测试实机演示",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
       "rank": 7,
@@ -39,7 +39,7 @@
     },
     {
       "rank": 8,
-      "text": "街霸6选手Kakeru翔因病退役",
+      "text": "美欧宣布对俄罗斯实施新制裁",
       "mark": null
     },
     {
@@ -49,7 +49,7 @@
     },
     {
       "rank": 10,
-      "text": "圈圈脸全技能爆料",
+      "text": "海贼王1163话全图情报",
       "mark": null
     }
   ]
