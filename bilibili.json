@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-10-23 05:20:03 GMT",
+  "generated_at": "2025-10-23 05:25:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -14,7 +14,7 @@
     },
     {
       "rank": 3,
-      "text": "小李DissASEN内幕",
+      "text": "UP主手搓AI眼镜",
       "mark": null
     },
     {
@@ -29,7 +29,7 @@
     },
     {
       "rank": 6,
-      "text": "第五人格",
+      "text": "小李DissASEN内幕",
       "mark": null
     },
     {
@@ -44,13 +44,13 @@
     },
     {
       "rank": 9,
-      "text": "UP主手搓AI眼镜",
-      "mark": null
+      "text": "影月月抢先体验洛克三测",
+      "mark": "http://i0.hdslb.com/bfs/app/a3618efbaba235afdb918e01fa9479eec78913e1.gif"
     },
     {
       "rank": 10,
-      "text": "影月月抢先体验洛克三测",
-      "mark": "http://i0.hdslb.com/bfs/app/a3618efbaba235afdb918e01fa9479eec78913e1.gif"
+      "text": "逃离鸭科夫销量突破100万",
+      "mark": null
     }
   ]
 }
