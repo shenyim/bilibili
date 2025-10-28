@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-10-28 06:25:04 GMT",
+  "generated_at": "2025-10-28 06:30:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -14,8 +14,8 @@
     },
     {
       "rank": 3,
-      "text": "香港演员许绍雄去世",
-      "mark": null
+      "text": "安倍晋三枪击案嫌疑人认罪",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
       "rank": 4,
@@ -25,31 +25,31 @@
     {
       "rank": 5,
       "text": "管泽元分析S15八强对阵情况",
-      "mark": null
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
       "rank": 6,
-      "text": "安倍晋三枪击案嫌疑人认罪",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
-      "rank": 7,
-      "text": "杨瀚森对位艾顿被打爆",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
-      "rank": 8,
-      "text": "喜人鬼畜 但是家有儿女",
-      "mark": null
-    },
-    {
-      "rank": 9,
       "text": "GEN HLE数据前瞻",
       "mark": null
     },
     {
-      "rank": 10,
+      "rank": 7,
+      "text": "香港演员许绍雄去世",
+      "mark": null
+    },
+    {
+      "rank": 8,
       "text": "逃离鸭科夫销量破200万",
+      "mark": null
+    },
+    {
+      "rank": 9,
+      "text": "喜人鬼畜 但是家有儿女",
+      "mark": null
+    },
+    {
+      "rank": 10,
+      "text": "特斯拉在虚拟世界训练AI司机",
       "mark": null
     }
   ]
