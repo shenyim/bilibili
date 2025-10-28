@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-10-28 05:50:03 GMT",
+  "generated_at": "2025-10-28 05:55:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -34,22 +34,22 @@
     },
     {
       "rank": 7,
+      "text": "李大霄解读A股突破4000点",
+      "mark": null
+    },
+    {
+      "rank": 8,
       "text": "安倍晋三枪击案嫌疑人认罪",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "text": "沪指时隔十年重返4000点",
       "mark": null
     },
     {
-      "rank": 9,
-      "text": "逃离鸭科夫销量破200万",
-      "mark": null
-    },
-    {
       "rank": 10,
-      "text": "李大霄解读A股突破4000点",
+      "text": "逃离鸭科夫销量破200万",
       "mark": null
     }
   ]
