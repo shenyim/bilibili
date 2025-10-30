@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-10-30 15:55:03 GMT",
+  "generated_at": "2025-10-30 16:00:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -20,7 +20,7 @@
     {
       "rank": 4,
       "text": "锐评TES战胜G2",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+      "mark": null
     },
     {
       "rank": 5,
@@ -29,18 +29,18 @@
     },
     {
       "rank": 6,
-      "text": "中美元首会晤到底谈了什么",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
-      "rank": 7,
       "text": "UP主自制的AI眼镜发布了",
       "mark": "http://i0.hdslb.com/bfs/app/a3618efbaba235afdb918e01fa9479eec78913e1.gif"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "text": "英伟达市值突破5万亿美元",
       "mark": null
+    },
+    {
+      "rank": 8,
+      "text": "白骨精新歌 障",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221117/eaf2dd702d7cc14d8d9511190245d057/EeuqbMwao9.png"
     },
     {
       "rank": 9,
@@ -49,8 +49,8 @@
     },
     {
       "rank": 10,
-      "text": "G2告别S15",
-      "mark": null
+      "text": "重庆狼队 苏州KSG",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     }
   ]
 }
