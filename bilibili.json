@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-10-31 14:00:03 GMT",
+  "generated_at": "2025-10-31 14:05:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
     },
     {
       "rank": 5,
-      "text": "Gumayusi卡莎11杀",
+      "text": "芳香胺的百年改造困境",
       "mark": null
     },
     {
@@ -39,18 +39,18 @@
     },
     {
       "rank": 8,
+      "text": "T1不败魔咒还在继续",
+      "mark": null
+    },
+    {
+      "rank": 9,
       "text": "AL T1",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "text": "树叶冲刺国服孙策",
       "mark": "https://i0.hdslb.com/bfs/activity-plat/static/20251027/aafcb8031fd171c428daaa9b45867226/VaxAnHMq6w.gif"
-    },
-    {
-      "rank": 10,
-      "text": "T1不败魔咒还在继续",
-      "mark": null
     }
   ]
 }
