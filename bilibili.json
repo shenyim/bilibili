@@ -1,21 +1,21 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-10-31 12:15:03 GMT",
+  "generated_at": "2025-10-31 12:20:04 GMT",
   "items": [
     {
       "rank": 1,
+      "text": "AL T1",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
+    },
+    {
+      "rank": 2,
       "text": "Gumayusi卡莎11杀",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
-      "rank": 2,
-      "text": "鸣潮仇远中国剑术分析",
-      "mark": null
-    },
-    {
       "rank": 3,
-      "text": "直击神舟二十一号出征",
-      "mark": "https://i0.hdslb.com/bfs/activity-plat/static/20251027/aafcb8031fd171c428daaa9b45867226/VaxAnHMq6w.gif"
+      "text": "解放西版燃冬",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20240304/fbb6ffcfd09815bd66290b6b7bde1196/OBQYPHMTcv.png"
     },
     {
       "rank": 4,
@@ -24,8 +24,8 @@
     },
     {
       "rank": 5,
-      "text": "湘潭大学投毒案罪犯被执行死刑",
-      "mark": null
+      "text": "直击神舟二十一号出征",
+      "mark": "https://i0.hdslb.com/bfs/activity-plat/static/20251027/aafcb8031fd171c428daaa9b45867226/VaxAnHMq6w.gif"
     },
     {
       "rank": 6,
@@ -34,23 +34,23 @@
     },
     {
       "rank": 7,
-      "text": "AL T1",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
-    },
-    {
-      "rank": 8,
       "text": "明日方舟终末地全面测试前瞻",
       "mark": "https://i0.hdslb.com/bfs/activity-plat/static/20251027/aafcb8031fd171c428daaa9b45867226/VaxAnHMq6w.gif"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "text": "时团团综终于更新了",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
+      "rank": 9,
+      "text": "蔡依林全新世界巡演官宣",
+      "mark": null
+    },
+    {
       "rank": 10,
-      "text": "IVL",
-      "mark": "https://i0.hdslb.com/bfs/activity-plat/static/20251027/aafcb8031fd171c428daaa9b45867226/VaxAnHMq6w.gif"
+      "text": "T1选手对中国美食赞不绝口",
+      "mark": null
     }
   ]
 }
