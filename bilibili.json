@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-10-31 13:50:03 GMT",
+  "generated_at": "2025-10-31 13:55:04 GMT",
   "items": [
     {
       "rank": 1,
@@ -30,7 +30,7 @@
     {
       "rank": 6,
       "text": "TES能否捍卫LPL最后的荣誉",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+      "mark": null
     },
     {
       "rank": 7,
@@ -39,18 +39,18 @@
     },
     {
       "rank": 8,
-      "text": "AL T1",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
-    },
-    {
-      "rank": 9,
       "text": "KPL",
       "mark": "https://i0.hdslb.com/bfs/activity-plat/static/20251027/aafcb8031fd171c428daaa9b45867226/VaxAnHMq6w.gif"
     },
     {
+      "rank": 9,
+      "text": "AL T1",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
+    },
+    {
       "rank": 10,
-      "text": "Gumayusi卡莎11杀",
-      "mark": null
+      "text": "树叶冲刺国服孙策",
+      "mark": "https://i0.hdslb.com/bfs/activity-plat/static/20251027/aafcb8031fd171c428daaa9b45867226/VaxAnHMq6w.gif"
     }
   ]
 }
