@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-10-31 13:00:03 GMT",
+  "generated_at": "2025-10-31 13:05:04 GMT",
   "items": [
     {
       "rank": 1,
@@ -14,43 +14,43 @@
     },
     {
       "rank": 3,
-      "text": "罗纳尔多来B站了",
-      "mark": null
-    },
-    {
-      "rank": 4,
       "text": "直击神舟二十一号发射",
       "mark": "https://i0.hdslb.com/bfs/activity-plat/static/20251027/aafcb8031fd171c428daaa9b45867226/VaxAnHMq6w.gif"
     },
     {
+      "rank": 4,
+      "text": "一条视频看十月世界",
+      "mark": null
+    },
+    {
       "rank": 5,
-      "text": "芳香胺的百年改造困境",
-      "mark": null
-    },
-    {
-      "rank": 6,
-      "text": "Gumayusi卡莎11杀",
-      "mark": null
-    },
-    {
-      "rank": 7,
-      "text": "KPL",
-      "mark": "https://i0.hdslb.com/bfs/activity-plat/static/20251027/aafcb8031fd171c428daaa9b45867226/VaxAnHMq6w.gif"
-    },
-    {
-      "rank": 8,
       "text": "湘潭大学投毒案罪犯被执行死刑",
       "mark": null
     },
     {
+      "rank": 6,
+      "text": "芳香胺的百年改造困境",
+      "mark": null
+    },
+    {
+      "rank": 7,
+      "text": "T1不败魔咒还在继续",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+    },
+    {
+      "rank": 8,
+      "text": "KPL",
+      "mark": "https://i0.hdslb.com/bfs/activity-plat/static/20251027/aafcb8031fd171c428daaa9b45867226/VaxAnHMq6w.gif"
+    },
+    {
       "rank": 9,
-      "text": "解放西版燃冬",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20240304/fbb6ffcfd09815bd66290b6b7bde1196/OBQYPHMTcv.png"
+      "text": "Gumayusi卡莎11杀",
+      "mark": null
     },
     {
       "rank": 10,
-      "text": "一条视频看十月世界",
-      "mark": null
+      "text": "解放西版燃冬",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20240304/fbb6ffcfd09815bd66290b6b7bde1196/OBQYPHMTcv.png"
     }
   ]
 }
