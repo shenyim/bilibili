@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-11-06 04:15:03 GMT",
+  "generated_at": "2025-11-06 04:20:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
     {
       "rank": 2,
       "text": "福建舰已集齐航母五件套",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
       "rank": 3,
@@ -29,27 +29,27 @@
     },
     {
       "rank": 6,
-      "text": "水龙吟外星人勇闯天涯",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
-      "rank": 7,
       "text": "台风海鸥重创菲律宾",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "text": "26号台风凤凰生成",
       "mark": null
     },
     {
-      "rank": 9,
+      "rank": 8,
       "text": "曼城大胜多特",
       "mark": null
     },
     {
-      "rank": 10,
+      "rank": 9,
       "text": "真实测评网络解压玩具",
+      "mark": null
+    },
+    {
+      "rank": 10,
+      "text": "带芬兰家人体验苏式旗袍",
       "mark": null
     }
   ]
