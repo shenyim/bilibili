@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-11-13 13:05:03 GMT",
+  "generated_at": "2025-11-13 13:10:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -29,28 +29,28 @@
     },
     {
       "rank": 6,
-      "text": "T1揭秘夺冠的幕后故事",
-      "mark": null
-    },
-    {
-      "rank": 7,
       "text": "野猪的爱情睡醒了",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221117/eaf2dd702d7cc14d8d9511190245d057/EeuqbMwao9.png"
     },
     {
+      "rank": 7,
+      "text": "三角洲行动新刀信条测评",
+      "mark": null
+    },
+    {
       "rank": 8,
-      "text": "星穹铁道赏金挑战赛",
-      "mark": "https://i0.hdslb.com/bfs/activity-plat/static/20251027/aafcb8031fd171c428daaa9b45867226/VaxAnHMq6w.gif"
+      "text": "T1揭秘夺冠的幕后故事",
+      "mark": null
     },
     {
       "rank": 9,
-      "text": "马天宇入驻B站",
+      "text": "三角洲S7赛季任务解析",
       "mark": null
     },
     {
       "rank": 10,
-      "text": "三角洲行动新刀信条测评",
-      "mark": null
+      "text": "星穹铁道赏金挑战赛",
+      "mark": "https://i0.hdslb.com/bfs/activity-plat/static/20251027/aafcb8031fd171c428daaa9b45867226/VaxAnHMq6w.gif"
     }
   ]
 }
