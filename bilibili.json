@@ -1,21 +1,21 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-11-13 02:40:03 GMT",
+  "generated_at": "2025-11-13 02:45:04 GMT",
   "items": [
     {
       "rank": 1,
+      "text": "比尔赛季报销",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+    },
+    {
+      "rank": 2,
       "text": "双11没落了吗",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
-      "rank": 2,
-      "text": "S15赛后总结",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
       "rank": 3,
-      "text": "美众议院通过临时拨款法案",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+      "text": "S15赛后总结",
+      "mark": null
     },
     {
       "rank": 4,
@@ -24,8 +24,8 @@
     },
     {
       "rank": 5,
-      "text": "OpenAI发布GPT-5.1",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
+      "text": "美众议院通过临时拨款法案",
+      "mark": null
     },
     {
       "rank": 6,
@@ -39,17 +39,17 @@
     },
     {
       "rank": 8,
-      "text": "实测空间智能Marble",
-      "mark": null
+      "text": "王者新匹配机制本周上线",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
       "rank": 9,
-      "text": "今年的T1经历了什么",
+      "text": "OpenAI发布GPT-5.1",
       "mark": null
     },
     {
       "rank": 10,
-      "text": "国台办回应高市早苗涉台恶劣言论",
+      "text": "实测空间智能Marble",
       "mark": null
     }
   ]
