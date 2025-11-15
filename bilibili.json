@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-11-15 16:45:04 GMT",
+  "generated_at": "2025-11-15 16:50:06 GMT",
   "items": [
     {
       "rank": 1,
@@ -15,7 +15,7 @@
     {
       "rank": 3,
       "text": "AL英雄联盟S15纪录片",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
       "rank": 4,
@@ -39,18 +39,18 @@
     },
     {
       "rank": 8,
-      "text": "樊振东谈战胜王楚钦晋级决赛",
-      "mark": null
-    },
-    {
-      "rank": 9,
       "text": "凡人",
       "mark": "https://i0.hdslb.com/bfs/legacy/2064944f29942131ece4bb0910c66a95e38454ae.png"
     },
     {
+      "rank": 9,
+      "text": "听泉赏宝入驻B站",
+      "mark": null
+    },
+    {
       "rank": 10,
-      "text": "Falcons Vitality",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
+      "text": "樊振东谈战胜王楚钦晋级决赛",
+      "mark": null
     }
   ]
 }
