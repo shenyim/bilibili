@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-11-19 16:30:04 GMT",
+  "generated_at": "2025-11-19 16:35:04 GMT",
   "items": [
     {
       "rank": 1,
@@ -24,8 +24,8 @@
     },
     {
       "rank": 5,
-      "text": "Gemini3有哪些新功能",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+      "text": "互联网热门消失APP锐评",
+      "mark": null
     },
     {
       "rank": 6,
@@ -34,23 +34,23 @@
     },
     {
       "rank": 7,
-      "text": "俄罗斯警告高市早苗",
-      "mark": null
-    },
-    {
-      "rank": 8,
       "text": "荷兰暂停对安世半导体行政令",
       "mark": null
     },
     {
-      "rank": 9,
-      "text": "40万的嫁衣是用黄金做的吗",
+      "rank": 8,
+      "text": "俄罗斯警告高市早苗",
       "mark": null
     },
     {
-      "rank": 10,
-      "text": "水葫芦为何在南方泛滥",
+      "rank": 9,
+      "text": "Gemini3有哪些新功能",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+    },
+    {
+      "rank": 10,
+      "text": "40万的嫁衣是用黄金做的吗",
+      "mark": null
     }
   ]
 }
