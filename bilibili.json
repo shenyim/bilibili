@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-11-22 11:15:04 GMT",
+  "generated_at": "2025-11-22 11:20:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -24,18 +24,18 @@
     },
     {
       "rank": 5,
-      "text": "东京民众抗议高市涉台言论",
-      "mark": null
-    },
-    {
-      "rank": 6,
       "text": "韩立巧设连环计赚差价",
       "mark": "https://i0.hdslb.com/bfs/legacy/647bba88c37449d0f5a2c69f1dff1373caf20797.png"
     },
     {
-      "rank": 7,
+      "rank": 6,
       "text": "王者荣耀S42新赛季前瞻直播",
       "mark": "https://i0.hdslb.com/bfs/activity-plat/static/20251027/aafcb8031fd171c428daaa9b45867226/VaxAnHMq6w.gif"
+    },
+    {
+      "rank": 7,
+      "text": "湖南承办2029全运会",
+      "mark": null
     },
     {
       "rank": 8,
@@ -44,7 +44,7 @@
     },
     {
       "rank": 9,
-      "text": "湖南承办2029全运会",
+      "text": "对学术不端零容忍",
       "mark": null
     },
     {
