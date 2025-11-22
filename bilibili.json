@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-11-22 08:20:06 GMT",
+  "generated_at": "2025-11-22 08:25:04 GMT",
   "items": [
     {
       "rank": 1,
@@ -19,18 +19,18 @@
     },
     {
       "rank": 4,
-      "text": "德国为何废核能炸电厂",
-      "mark": null
-    },
-    {
-      "rank": 5,
       "text": "哪吒2不参评奥斯卡最佳动画长片",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
-      "rank": 6,
+      "rank": 5,
       "text": "郭帆为动物朋克加油",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+    },
+    {
+      "rank": 6,
+      "text": "德国为何废核能炸电厂",
+      "mark": null
     },
     {
       "rank": 7,
@@ -49,8 +49,8 @@
     },
     {
       "rank": 10,
-      "text": "印度光辉战机表演时坠毁",
-      "mark": null
+      "text": "热血老年广场大战",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221117/eaf2dd702d7cc14d8d9511190245d057/EeuqbMwao9.png"
     }
   ]
 }
