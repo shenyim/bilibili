@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-11-22 10:25:03 GMT",
+  "generated_at": "2025-11-22 10:30:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -34,7 +34,7 @@
     },
     {
       "rank": 7,
-      "text": "王者新英雄大禹爆料",
+      "text": "东京民众抗议高市涉台言论",
       "mark": null
     },
     {
@@ -44,13 +44,13 @@
     },
     {
       "rank": 9,
-      "text": "东京民众抗议高市涉台言论",
+      "text": "湖南承办2029全运会",
       "mark": null
     },
     {
       "rank": 10,
-      "text": "热血老年广场大战",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221117/eaf2dd702d7cc14d8d9511190245d057/EeuqbMwao9.png"
+      "text": "德国为何废核能炸电厂",
+      "mark": null
     }
   ]
 }
