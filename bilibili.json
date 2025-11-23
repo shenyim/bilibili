@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-11-23 06:25:05 GMT",
+  "generated_at": "2025-11-23 06:30:05 GMT",
   "items": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
     },
     {
       "rank": 5,
-      "text": "解析高中学历如何当上博导",
+      "text": "Banana Pro玩法分享",
       "mark": null
     },
     {
@@ -34,23 +34,23 @@
     },
     {
       "rank": 7,
-      "text": "Banana Pro玩法分享",
+      "text": "解析高中学历如何当上博导",
       "mark": null
     },
     {
       "rank": 8,
-      "text": "2万字解读疯狂动物城",
-      "mark": null
-    },
-    {
-      "rank": 9,
       "text": "被7片拼图虐了2小时",
       "mark": null
     },
     {
-      "rank": 10,
+      "rank": 9,
       "text": "IVL",
       "mark": "https://i0.hdslb.com/bfs/activity-plat/static/20251027/aafcb8031fd171c428daaa9b45867226/VaxAnHMq6w.gif"
+    },
+    {
+      "rank": 10,
+      "text": "说粤语的人从哪里来",
+      "mark": null
     }
   ]
 }
