@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-11-24 03:10:04 GMT",
+  "generated_at": "2025-11-24 03:18:32 GMT",
   "items": [
     {
       "rank": 1,
@@ -24,32 +24,32 @@
     },
     {
       "rank": 5,
-      "text": "第五人格全新剧情预告片",
-      "mark": null
-    },
-    {
-      "rank": 6,
       "text": "俄乌28点计划将如何影响未来局势",
       "mark": null
     },
     {
-      "rank": 7,
-      "text": "Gemini3.0炸裂玩法合集",
+      "rank": 6,
+      "text": "第五人格全新剧情预告片",
       "mark": null
     },
     {
-      "rank": 8,
+      "rank": 7,
       "text": "英伟达财报背后的未来AI密码",
       "mark": null
     },
     {
+      "rank": 8,
+      "text": "疯狂动物城剧情回顾",
+      "mark": null
+    },
+    {
       "rank": 9,
-      "text": "寻找范德彪的耶路撒冷",
+      "text": "Gemini3.0炸裂玩法合集",
       "mark": null
     },
     {
       "rank": 10,
-      "text": "F1拉斯维加斯战报",
+      "text": "寻找范德彪的耶路撒冷",
       "mark": null
     }
   ]
