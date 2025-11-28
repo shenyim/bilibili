@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-11-28 13:15:03 GMT",
+  "generated_at": "2025-11-28 13:20:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -39,18 +39,18 @@
     },
     {
       "rank": 8,
-      "text": "JDG宣布Xun离队",
-      "mark": null
-    },
-    {
-      "rank": 9,
       "text": "解放西惊现摸金校尉",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20240304/fbb6ffcfd09815bd66290b6b7bde1196/OBQYPHMTcv.png"
     },
     {
-      "rank": 10,
+      "rank": 9,
       "text": "徐静雨独创NBA球员分类",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+    },
+    {
+      "rank": 10,
+      "text": "疯狂动物城2观影感受",
+      "mark": null
     }
   ]
 }
