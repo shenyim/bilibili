@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-12-01 17:35:03 GMT",
+  "generated_at": "2025-12-01 18:01:02 GMT",
   "items": [
     {
       "rank": 1,
@@ -9,13 +9,13 @@
     },
     {
       "rank": 2,
-      "text": "iG官宣Gala离队",
-      "mark": null
+      "text": "布达佩斯MajorDay7",
+      "mark": "https://i0.hdslb.com/bfs/activity-plat/static/20251027/aafcb8031fd171c428daaa9b45867226/VaxAnHMq6w.gif"
     },
     {
       "rank": 3,
-      "text": "布达佩斯MajorDay7",
-      "mark": "https://i0.hdslb.com/bfs/activity-plat/static/20251027/aafcb8031fd171c428daaa9b45867226/VaxAnHMq6w.gif"
+      "text": "iG官宣Gala离队",
+      "mark": null
     },
     {
       "rank": 4,
@@ -34,22 +34,22 @@
     },
     {
       "rank": 7,
-      "text": "复盘中国男篮世预赛不敌韩国",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
-      "rank": 8,
       "text": "俄罗斯免签怎么玩",
       "mark": null
     },
     {
-      "rank": 9,
+      "rank": 8,
       "text": "战争中设计的puzzle谜题",
       "mark": null
     },
     {
-      "rank": 10,
+      "rank": 9,
       "text": "初代网红后舍男生来了",
+      "mark": null
+    },
+    {
+      "rank": 10,
+      "text": "复盘中国男篮世预赛不敌韩国",
       "mark": null
     }
   ]
