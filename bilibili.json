@@ -1,11 +1,11 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-12-01 09:40:05 GMT",
+  "generated_at": "2025-12-01 09:45:04 GMT",
   "items": [
     {
       "rank": 1,
       "text": "香港火灾已致151人遇难",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+      "mark": null
     },
     {
       "rank": 2,
@@ -14,27 +14,27 @@
     },
     {
       "rank": 3,
+      "text": "Faker复盘S15总决赛",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+    },
+    {
+      "rank": 4,
+      "text": "俄罗斯免签怎么玩",
+      "mark": null
+    },
+    {
+      "rank": 5,
       "text": "JDG官宣JunJia加入",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
-      "rank": 4,
-      "text": "BLG官宣Xun回归",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
-      "rank": 5,
-      "text": "警方就大埔火灾已拘捕13人",
-      "mark": null
-    },
-    {
       "rank": 6,
-      "text": "长尾夹自制战神刑天",
+      "text": "BLG官宣Xun回归",
       "mark": null
     },
     {
       "rank": 7,
-      "text": "俄罗斯免签怎么玩",
+      "text": "警方就大埔火灾已拘捕13人",
       "mark": null
     },
     {
@@ -44,13 +44,13 @@
     },
     {
       "rank": 9,
-      "text": "疯狂动物城2新角色解析",
-      "mark": null
+      "text": "LNG官宣Weiwei离队",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
       "rank": 10,
-      "text": "胡歌和鲁豫聊爆红后歇业原因",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20240304/fbb6ffcfd09815bd66290b6b7bde1196/OBQYPHMTcv.png"
+      "text": "给美国伴娘送外卖会有多少小费",
+      "mark": null
     }
   ]
 }
