@@ -1,11 +1,11 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-12-01 07:55:04 GMT",
+  "generated_at": "2025-12-01 08:00:04 GMT",
   "items": [
     {
       "rank": 1,
       "text": "JDG官宣JunJia加入",
-      "mark": null
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
       "rank": 2,
@@ -34,23 +34,23 @@
     },
     {
       "rank": 7,
-      "text": "现在为何几乎不停电了",
-      "mark": null
-    },
-    {
-      "rank": 8,
       "text": "当夏奇拉遇上夏奇羊",
       "mark": null
     },
     {
+      "rank": 8,
+      "text": "现在为何几乎不停电了",
+      "mark": null
+    },
+    {
       "rank": 9,
-      "text": "湖人豪取七连胜",
+      "text": "IG发布2025纪录片",
       "mark": null
     },
     {
       "rank": 10,
-      "text": "大生意人一集打破收视率纪录",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+      "text": "湖人豪取七连胜",
+      "mark": null
     }
   ]
 }
