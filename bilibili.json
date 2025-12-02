@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-12-02 08:40:03 GMT",
+  "generated_at": "2025-12-02 08:45:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -25,7 +25,7 @@
     {
       "rank": 5,
       "text": "实测DeepSeekV3.2正式版",
-      "mark": null
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
       "rank": 6,
@@ -34,12 +34,12 @@
     },
     {
       "rank": 7,
-      "text": "原神杜林角色预告",
+      "text": "DeepSeek新模型追平Gemini",
       "mark": null
     },
     {
       "rank": 8,
-      "text": "DeepSeek新模型追平Gemini",
+      "text": "原神杜林角色预告",
       "mark": null
     },
     {
@@ -49,7 +49,7 @@
     },
     {
       "rank": 10,
-      "text": "天禄止步Major",
+      "text": "回答外国人关于中国的问题",
       "mark": null
     }
   ]
