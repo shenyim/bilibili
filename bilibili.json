@@ -1,36 +1,36 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-12-02 12:40:03 GMT",
+  "generated_at": "2025-12-02 12:45:03 GMT",
   "items": [
     {
       "rank": 1,
+      "text": "谁该为男篮惨败韩国负责",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+    },
+    {
+      "rank": 2,
       "text": "COS黑神话悟空带四妹逛街",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "text": "央视曝光假冒进口奶粉制售窝点",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "text": "从牛局长视角看疯狂动物城2",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
-      "rank": 4,
+      "rank": 5,
       "text": "央视起底卫生间涉黄小广告",
       "mark": null
     },
     {
-      "rank": 5,
+      "rank": 6,
       "text": "F1卡塔尔大奖赛正赛赛后数据",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
-      "rank": 6,
-      "text": "DeepSeek新模型追平Gemini",
-      "mark": null
     },
     {
       "rank": 7,
@@ -39,17 +39,17 @@
     },
     {
       "rank": 8,
-      "text": "闲才来B站了",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+      "text": "DeepSeek新模型追平Gemini",
+      "mark": null
     },
     {
       "rank": 9,
-      "text": "原神杜林角色预告",
+      "text": "实测DeepSeekV3.2正式版",
       "mark": null
     },
     {
       "rank": 10,
-      "text": "实测DeepSeekV3.2正式版",
+      "text": "朴赞郁现象级新作",
       "mark": null
     }
   ]
