@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-12-02 11:25:03 GMT",
+  "generated_at": "2025-12-02 11:30:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
     },
     {
       "rank": 5,
-      "text": "日食记请潮汕人吃大席",
+      "text": "实测DeepSeekV3.2正式版",
       "mark": null
     },
     {
@@ -39,18 +39,18 @@
     },
     {
       "rank": 8,
-      "text": "影视飓风拍到了大白鲨",
+      "text": "原神杜林角色预告",
       "mark": null
     },
     {
       "rank": 9,
-      "text": "实测DeepSeekV3.2正式版",
+      "text": "日食记请潮汕人吃大席",
       "mark": null
     },
     {
       "rank": 10,
-      "text": "原神杜林角色预告",
-      "mark": null
+      "text": "王者策划S42新赛季改动答疑",
+      "mark": "https://i0.hdslb.com/bfs/activity-plat/static/20251027/aafcb8031fd171c428daaa9b45867226/VaxAnHMq6w.gif"
     }
   ]
 }
