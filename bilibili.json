@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-12-02 02:35:04 GMT",
+  "generated_at": "2025-12-02 02:40:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
     },
     {
       "rank": 5,
-      "text": "中国男篮惨遭韩国双杀",
+      "text": "战争中设计的puzzle谜题",
       "mark": null
     },
     {
@@ -39,17 +39,17 @@
     },
     {
       "rank": 8,
+      "text": "香港特区将成立独立委员会调查火灾",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+    },
+    {
+      "rank": 9,
       "text": "DeepSeek新模型追平Gemini",
       "mark": null
     },
     {
-      "rank": 9,
-      "text": "朴赞郁现象级新作",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
       "rank": 10,
-      "text": "Faker复盘S15总决赛",
+      "text": "朴赞郁现象级新作",
       "mark": null
     }
   ]
