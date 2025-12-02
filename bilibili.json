@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-12-02 02:00:58 GMT",
+  "generated_at": "2025-12-02 02:05:02 GMT",
   "items": [
     {
       "rank": 1,
@@ -24,7 +24,7 @@
     },
     {
       "rank": 5,
-      "text": "战争中设计的puzzle谜题",
+      "text": "中国男篮惨遭韩国双杀",
       "mark": null
     },
     {
@@ -39,17 +39,17 @@
     },
     {
       "rank": 8,
-      "text": "回答外国人关于中国的问题",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
-      "rank": 9,
       "text": "DeepSeek新模型追平Gemini",
       "mark": null
     },
     {
+      "rank": 9,
+      "text": "回答外国人关于中国的问题",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+    },
+    {
       "rank": 10,
-      "text": "中国男篮惨遭韩国双杀",
+      "text": "战争中设计的puzzle谜题",
       "mark": null
     }
   ]
