@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-12-02 07:45:03 GMT",
+  "generated_at": "2025-12-02 08:33:41 GMT",
   "items": [
     {
       "rank": 1,
@@ -9,23 +9,23 @@
     },
     {
       "rank": 2,
-      "text": "WBG官宣Light离队",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
-      "rank": 3,
       "text": "俄称已控制红军城",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
-      "rank": 4,
-      "text": "影视飓风拍到了大白鲨",
+      "rank": 3,
+      "text": "实测DeepSeekV3.2正式版",
       "mark": null
     },
     {
+      "rank": 4,
+      "text": "WBG官宣Light离队",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+    },
+    {
       "rank": 5,
-      "text": "实测DeepSeekV3.2正式版",
-      "mark": null
+      "text": "影视飓风拍到了大白鲨",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
       "rank": 6,
@@ -35,21 +35,21 @@
     {
       "rank": 7,
       "text": "原神杜林角色预告",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
-      "rank": 8,
-      "text": "JDG官宣GALA加入",
       "mark": null
     },
     {
-      "rank": 9,
+      "rank": 8,
       "text": "DeepSeek新模型追平Gemini",
       "mark": null
     },
     {
-      "rank": 10,
+      "rank": 9,
       "text": "天禄止步Major",
+      "mark": null
+    },
+    {
+      "rank": 10,
+      "text": "JDG官宣GALA加入",
       "mark": null
     }
   ]
