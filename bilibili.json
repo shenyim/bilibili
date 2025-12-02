@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-12-02 13:20:02 GMT",
+  "generated_at": "2025-12-02 13:25:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -19,17 +19,17 @@
     },
     {
       "rank": 4,
-      "text": "央视起底卫生间涉黄小广告",
+      "text": "万字拆解怪奇物语5第四集",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
       "rank": 5,
-      "text": "疯狂动物城从打破偏见到和谐共生",
+      "text": "央视起底卫生间涉黄小广告",
       "mark": null
     },
     {
       "rank": 6,
-      "text": "DeepSeek新模型追平Gemini",
+      "text": "疯狂动物城从打破偏见到和谐共生",
       "mark": null
     },
     {
@@ -39,17 +39,17 @@
     },
     {
       "rank": 8,
-      "text": "实测DeepSeekV3.2正式版",
-      "mark": null
-    },
-    {
-      "rank": 9,
       "text": "原神杜林角色预告",
       "mark": null
     },
     {
+      "rank": 9,
+      "text": "DeepSeek新模型追平Gemini",
+      "mark": null
+    },
+    {
       "rank": 10,
-      "text": "WBG官宣Light离队",
+      "text": "实测DeepSeekV3.2正式版",
       "mark": null
     }
   ]
