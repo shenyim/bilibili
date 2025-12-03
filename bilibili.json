@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-12-03 14:20:03 GMT",
+  "generated_at": "2025-12-03 14:25:04 GMT",
   "items": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
     },
     {
       "rank": 2,
-      "text": "快船官宣保罗被裁",
+      "text": "谭乔回访背鞋盒大叔一家",
       "mark": null
     },
     {
@@ -19,7 +19,7 @@
     },
     {
       "rank": 4,
-      "text": "美委局势会如何发展",
+      "text": "快船官宣保罗被裁",
       "mark": null
     },
     {
@@ -34,23 +34,23 @@
     },
     {
       "rank": 7,
-      "text": "谭乔回访背鞋盒大叔一家",
-      "mark": null
-    },
-    {
-      "rank": 8,
       "text": "鸣潮今州杯S8",
       "mark": "https://i0.hdslb.com/bfs/activity-plat/static/20251027/aafcb8031fd171c428daaa9b45867226/VaxAnHMq6w.gif"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "text": "本周末F1收官战前瞻",
       "mark": null
     },
     {
-      "rank": 10,
+      "rank": 9,
       "text": "日本造军事基地画面曝光",
       "mark": null
+    },
+    {
+      "rank": 10,
+      "text": "特厨带队吃透烤肉之城",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     }
   ]
 }
