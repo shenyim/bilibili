@@ -1,35 +1,35 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-12-06 06:35:08 GMT",
+  "generated_at": "2025-12-06 06:40:06 GMT",
   "items": [
     {
       "rank": 1,
+      "text": "挑战者杯",
+      "mark": "https://i0.hdslb.com/bfs/activity-plat/static/20251027/aafcb8031fd171c428daaa9b45867226/VaxAnHMq6w.gif"
+    },
+    {
+      "rank": 2,
       "text": "元婴集结启程探遗迹",
       "mark": "https://i0.hdslb.com/bfs/legacy/647bba88c37449d0f5a2c69f1dff1373caf20797.png"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "text": "英国首相花7亿救鱼引争议",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "text": "凡人公寓",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221117/eaf2dd702d7cc14d8d9511190245d057/EeuqbMwao9.png"
     },
     {
-      "rank": 4,
-      "text": "周杰伦阿信言承旭吴建豪周渝民新歌",
+      "rank": 5,
+      "text": "一个被抹杀800年的王朝",
       "mark": null
     },
     {
-      "rank": 5,
-      "text": "一个被抹杀800年的王朝",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
       "rank": 6,
-      "text": "古人出趟门有多危险",
+      "text": "大张伟CFM新歌十倍爽",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
@@ -44,12 +44,12 @@
     },
     {
       "rank": 9,
-      "text": "非正老友从夯到拉锐评",
+      "text": "Netflix将收购华纳兄弟",
       "mark": null
     },
     {
       "rank": 10,
-      "text": "Netflix将收购华纳兄弟",
+      "text": "周杰伦阿信言承旭吴建豪周渝民新歌",
       "mark": null
     }
   ]
