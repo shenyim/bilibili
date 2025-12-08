@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-12-08 14:55:03 GMT",
+  "generated_at": "2025-12-08 15:00:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
     {
       "rank": 2,
       "text": "GTA冬日DLC更新前瞻",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+      "mark": null
     },
     {
       "rank": 3,
@@ -19,12 +19,12 @@
     },
     {
       "rank": 4,
-      "text": "苟仲文一审被判死缓",
-      "mark": null
+      "text": "日本发生7.5级地震",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
       "rank": 5,
-      "text": "TGA预热宣传视频",
+      "text": "苟仲文一审被判死缓",
       "mark": null
     },
     {
@@ -39,18 +39,18 @@
     },
     {
       "rank": 8,
-      "text": "FaZe晋级布达佩斯Major八强",
-      "mark": null
+      "text": "乌将美和平计划比作慕尼黑协定",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
       "rank": 9,
-      "text": "xiaohu被威胁跳手势舞2.0",
+      "text": "诺里斯成F1第35位世界冠军",
       "mark": null
     },
     {
       "rank": 10,
-      "text": "乌将美和平计划比作慕尼黑协定",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+      "text": "BLG官宣Shad0w离队",
+      "mark": null
     }
   ]
 }
