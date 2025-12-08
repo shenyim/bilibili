@@ -1,25 +1,25 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-12-08 15:00:03 GMT",
+  "generated_at": "2025-12-08 15:05:03 GMT",
   "items": [
     {
       "rank": 1,
+      "text": "日本发生7.5级地震",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+    },
+    {
+      "rank": 2,
       "text": "肖四精讲带背",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "text": "GTA冬日DLC更新前瞻",
       "mark": null
     },
     {
-      "rank": 3,
-      "text": "民用高超会颠覆军事格局吗",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
-    },
-    {
       "rank": 4,
-      "text": "日本发生7.5级地震",
+      "text": "民用高超会颠覆军事格局吗",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
@@ -44,12 +44,12 @@
     },
     {
       "rank": 9,
-      "text": "诺里斯成F1第35位世界冠军",
+      "text": "诺里斯跻身F1世界冠军名人堂",
       "mark": null
     },
     {
       "rank": 10,
-      "text": "BLG官宣Shad0w离队",
+      "text": "诺里斯成F1第35位世界冠军",
       "mark": null
     }
   ]
