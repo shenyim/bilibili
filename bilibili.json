@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-12-09 09:45:03 GMT",
+  "generated_at": "2025-12-09 09:50:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -39,17 +39,17 @@
     },
     {
       "rank": 8,
-      "text": "有秘密的我们2 年度气人综艺",
-      "mark": null
-    },
-    {
-      "rank": 9,
       "text": "苏炳添宣布退役",
       "mark": null
     },
     {
-      "rank": 10,
+      "rank": 9,
       "text": "NMIXX翻唱UP主AI版大东北",
+      "mark": null
+    },
+    {
+      "rank": 10,
+      "text": "穿山甲的米线店倒闭了",
       "mark": null
     }
   ]
