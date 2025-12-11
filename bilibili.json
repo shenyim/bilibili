@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-12-11 10:26:24 GMT",
+  "generated_at": "2025-12-11 11:55:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -10,7 +10,7 @@
     {
       "rank": 2,
       "text": "国家统计局正式入驻B站",
-      "mark": null
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
     },
     {
       "rank": 3,
@@ -19,8 +19,8 @@
     },
     {
       "rank": 4,
-      "text": "IG官宣Photic加入",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221213/eaf2dd702d7cc14d8d9511190245d057/lrx9rnKo24.png"
+      "text": "锐评从夯到拉",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221117/eaf2dd702d7cc14d8d9511190245d057/EeuqbMwao9.png"
     },
     {
       "rank": 5,
@@ -29,17 +29,17 @@
     },
     {
       "rank": 6,
-      "text": "锐评从夯到拉",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221117/eaf2dd702d7cc14d8d9511190245d057/EeuqbMwao9.png"
-    },
-    {
-      "rank": 7,
       "text": "九天无人机究竟有多强",
       "mark": null
     },
     {
-      "rank": 8,
+      "rank": 7,
       "text": "电动车新国标为何引发争议",
+      "mark": null
+    },
+    {
+      "rank": 8,
+      "text": "UP主挑战CS1.6冠军老兵",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
@@ -49,7 +49,7 @@
     },
     {
       "rank": 10,
-      "text": "外交部再次提醒近期避免前往日本",
+      "text": "速成考研政治最优解",
       "mark": null
     }
   ]
