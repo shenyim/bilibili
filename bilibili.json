@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-12-11 12:50:05 GMT",
+  "generated_at": "2025-12-11 12:55:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -19,23 +19,23 @@
     },
     {
       "rank": 4,
+      "text": "COS黑神话悟空遇上齐天大圣",
+      "mark": null
+    },
+    {
+      "rank": 5,
+      "text": "天府之星列车上的川菜有多好吃",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+    },
+    {
+      "rank": 6,
       "text": "Zeka三次单杀Faker",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
-      "rank": 5,
-      "text": "深度解说诡舍的中式恐怖副本",
-      "mark": null
-    },
-    {
-      "rank": 6,
+      "rank": 7,
       "text": "锐评从夯到拉",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221117/eaf2dd702d7cc14d8d9511190245d057/EeuqbMwao9.png"
-    },
-    {
-      "rank": 7,
-      "text": "COS黑神话悟空遇上齐天大圣",
-      "mark": null
     },
     {
       "rank": 8,
@@ -44,13 +44,13 @@
     },
     {
       "rank": 9,
-      "text": "叶祖新",
+      "text": "深度解说诡舍的中式恐怖副本",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
       "rank": 10,
-      "text": "天府之星列车上的川菜有多好吃",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+      "text": "电动车新国标为何引发争议",
+      "mark": null
     }
   ]
 }
