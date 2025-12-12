@@ -1,11 +1,11 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-12-12 15:00:03 GMT",
+  "generated_at": "2025-12-12 15:05:03 GMT",
   "items": [
     {
       "rank": 1,
-      "text": "挑战者杯",
-      "mark": "https://i0.hdslb.com/bfs/activity-plat/static/20251027/aafcb8031fd171c428daaa9b45867226/VaxAnHMq6w.gif"
+      "text": "影之刃零26年9月9日发售",
+      "mark": null
     },
     {
       "rank": 2,
@@ -14,7 +14,7 @@
     },
     {
       "rank": 3,
-      "text": "肖四考点归纳",
+      "text": "故宫的初雪来了",
       "mark": null
     },
     {
@@ -29,8 +29,8 @@
     },
     {
       "rank": 6,
-      "text": "影之刃零26年9月9日发售",
-      "mark": null
+      "text": "挑战者杯",
+      "mark": "https://i0.hdslb.com/bfs/activity-plat/static/20251027/aafcb8031fd171c428daaa9b45867226/VaxAnHMq6w.gif"
     },
     {
       "rank": 7,
@@ -39,18 +39,18 @@
     },
     {
       "rank": 8,
-      "text": "故宫的初雪来了",
-      "mark": null
-    },
-    {
-      "rank": 9,
       "text": "UP主解读OpenAI和谷歌的AI大战",
       "mark": null
     },
     {
-      "rank": 10,
-      "text": "一图速览中央经济工作会议",
+      "rank": 9,
+      "text": "2025十大冷门好剧盘点",
       "mark": null
+    },
+    {
+      "rank": 10,
+      "text": "2025热门年度盘点",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20240304/fbb6ffcfd09815bd66290b6b7bde1196/OBQYPHMTcv.png"
     }
   ]
 }
