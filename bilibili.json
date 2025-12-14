@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-12-14 10:05:03 GMT",
+  "generated_at": "2025-12-14 10:10:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -14,7 +14,7 @@
     },
     {
       "rank": 3,
-      "text": "王楚钦因伤退赛",
+      "text": "仙王的日常生活",
       "mark": null
     },
     {
@@ -29,18 +29,18 @@
     },
     {
       "rank": 6,
+      "text": "王楚钦因伤退赛",
+      "mark": null
+    },
+    {
+      "rank": 7,
       "text": "2025热门年度盘点",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20240304/fbb6ffcfd09815bd66290b6b7bde1196/OBQYPHMTcv.png"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "text": "何晴去世 曾演遍四大名著",
       "mark": null
-    },
-    {
-      "rank": 8,
-      "text": "明日方舟新模组测评",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
       "rank": 9,
@@ -49,8 +49,8 @@
     },
     {
       "rank": 10,
-      "text": "绵羊花3个月复刻千年前宫廷名菜",
-      "mark": null
+      "text": "明日方舟新模组测评",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     }
   ]
 }
