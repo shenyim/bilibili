@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-12-15 02:05:03 GMT",
+  "generated_at": "2025-12-15 02:10:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -34,23 +34,23 @@
     },
     {
       "rank": 7,
-      "text": "泽连斯基称乌克兰放弃加入北约",
-      "mark": null
-    },
-    {
-      "rank": 8,
       "text": "印度人的民族自信从何而来",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
+      "rank": 8,
+      "text": "泽连斯基称乌克兰放弃加入北约",
+      "mark": null
+    },
+    {
       "rank": 9,
       "text": "王者挑战者杯抽签仪式",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
+      "mark": null
     },
     {
       "rank": 10,
-      "text": "朱雀三号总师解析首飞任务",
-      "mark": null
+      "text": "影之刃零PV里的中式细节",
+      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     }
   ]
 }
