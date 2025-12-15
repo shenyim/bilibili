@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-12-15 05:00:03 GMT",
+  "generated_at": "2025-12-15 05:05:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -19,12 +19,12 @@
     },
     {
       "rank": 4,
-      "text": "盘点学术圈的离谱论文",
+      "text": "中国科学家终结爱因斯坦和玻尔争论",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
       "rank": 5,
-      "text": "中国科学家终结爱因斯坦和玻尔争论",
+      "text": "盘点学术圈的离谱论文",
       "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20221118/eaf2dd702d7cc14d8d9511190245d057/UF7B1wVKT2.png"
     },
     {
@@ -49,8 +49,8 @@
     },
     {
       "rank": 10,
-      "text": "2025热门年度盘点",
-      "mark": "http://i0.hdslb.com/bfs/activity-plat/static/20240304/fbb6ffcfd09815bd66290b6b7bde1196/OBQYPHMTcv.png"
+      "text": "Major第三阶段数据雷达图",
+      "mark": null
     }
   ]
 }
