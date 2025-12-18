@@ -1,6 +1,6 @@
 {
   "source": "bilibili",
-  "generated_at": "2025-12-18 23:20:02 GMT",
+  "generated_at": "2025-12-18 23:25:03 GMT",
   "items": [
     {
       "rank": 1,
@@ -39,17 +39,17 @@
     },
     {
       "rank": 8,
-      "text": "李维刚再访烤鸡少年",
-      "mark": null
-    },
-    {
-      "rank": 9,
       "text": "2026总台春晚吉祥物公布",
       "mark": null
     },
     {
-      "rank": 10,
+      "rank": 9,
       "text": "海南封关意味着什么",
+      "mark": null
+    },
+    {
+      "rank": 10,
+      "text": "李维刚再访烤鸡少年",
       "mark": null
     }
   ]
